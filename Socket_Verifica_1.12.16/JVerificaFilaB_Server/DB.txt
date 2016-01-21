@@ -1,0 +1,77 @@
+Albavilla;22031
+Albese con Cassano;22032
+Albiolo;22070
+Alserio;22040
+Alzate Brianza;22040
+Anzano del Parco;22040
+Appiano Gentile;22070
+Argegno;22010
+Arosio;22060
+Asso;22033
+Barni;22030
+Bellagio;22021
+Bene Lario;22010
+Beregazzo con Figliaro;22070
+Binago;22070
+Bizzarone;22020
+Blessagno;22028
+Blevio;22020
+Bregnano;22070
+Brenna;22040
+Brienno;22010
+Brunate;22034
+Bulgarograsso;22070
+Cabiate;22060
+Cadorago;22071
+Caglio;22030
+Cagno;22070
+Campione d'Italia;22060
+Cantù;22063
+Canzo;22035
+Capiago Intimiano;22070
+Carate Urio;22010
+Carbonate;22070
+Carimate;22060
+Carlazzo;22010
+Carugo;22060
+Casasco d'Intelvi;22022
+Caslino d'Erba;22030
+Casnate con Bernate;22070
+Cassina Rizzardi;22070
+Castelmarte;22030
+Castelnuovo Bozzente;22070
+Castiglione d'Intelvi;22023
+Cavallasca;22020
+Cavargna;22010
+Cerano d'Intelvi;22020
+Cermenate;22072
+Cernobbio;22012
+Cirimido;22070
+Claino con Osteno;22010
+Colonno;22010
+Colverde;22041
+COMO;22100
+Corrido;22010
+Cremia;22010
+Cucciago;22060
+Cusino;22010
+Dizzasco;22020
+Domaso;22013
+Dongo;22014
+Dosso del Liro;22010
+Erba;22036
+Eupilio;22030
+Faggeto Lario;22020
+Faloppio;22020
+Fenegrò;22070
+Figino Serenza;22060
+Fino Mornasco;22073
+Garzeno;22010
+Gera Lario;22010
+Grandate;22070
+Grandola ed Uniti;22010
+Gravedona ed Uniti;22015
+Griante;22011
+Mariano Comense;22066
+Sormano;22030
+Ponte Lambro;22037
