@@ -1,0 +1,10 @@
+batteria
+oboe
+flauto
+piccolo
+tromba
+sax
+chitarra
+basso
+voce
+tastiera
