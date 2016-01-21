@@ -1,0 +1,6 @@
+Lampadario;2000;7000;terzo
+
+Tavolino;1000;0;null
+
+Comodino;1700;0;null
+
